@@ -32,10 +32,17 @@ I enjoy magic.
 
 ### Problem Set 3: String Concatenation
 5. **Concatenation of Strings and Variables**
-   - Create a program that stores your name and your favorite food in two variables. Print a sentence combining the two, such as "My name is John and I love pizza."
+   - Create a program that stores your ``name`` and your ``favorite food`` in two variables. Print a sentence combining the two, such as:
+
+````
+My name is John and I love pizza.
+````
 
 6. **Greeting Message**
-   - Write a program that asks the user to input their name, then prints a personalized greeting, such as: "Hello, Sarah! Welcome back!"
+   - Write a program that asks the user to input their `name`, then prints a personalized greeting, such as:
+````
+Hello, Sarah! Welcome back!
+````
 
 ### Problem Set 4: Boolean Comparisons
 7. **Simple Boolean Comparisons**
