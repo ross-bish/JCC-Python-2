@@ -70,7 +70,7 @@ Hello, Sarah! Welcome back!
 
 ## ✨Extra Credit: If-Else Conditions 
 11. **Even or Odd**
-    - Write a program that asks the user for a number, then prints whether the number is even or odd using an **if-else statement**.
+    - Write a program that asks the user for a number, then prints whether the number is _even_ or _odd_ using an **if-else statement**.
 
 <details>
 
