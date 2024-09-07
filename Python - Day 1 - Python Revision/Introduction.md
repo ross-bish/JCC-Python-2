@@ -64,6 +64,9 @@ Hello, Sarah! Welcome back!
 
 10. **Calculate the Area of a Rectangle**
     - Write a program that takes the ``width`` and ``height`` of a rectangle as an input from the user, then calculates and prints the ``area``.
+   
+      ![image](https://github.com/user-attachments/assets/01b63b35-3876-4dcb-97ae-fd57b7246a62)
+
 
 ## ✨Extra Credit: If-Else Conditions 
 11. **Even or Odd**
