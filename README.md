@@ -1,2 +1,2 @@
-# Junior Cycle Coding
-Junior Cycle Coding - Year 3 - Python
+# Junior Cycle Coding - Year 3
+Python 2 - Problem Sets
