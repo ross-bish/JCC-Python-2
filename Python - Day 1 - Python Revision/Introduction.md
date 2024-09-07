@@ -47,9 +47,21 @@ Here’s a set of 10 beginner-level Python problems sets:
 10. **Calculate the Area of a Rectangle**
     - Write a program that takes the width and height of a rectangle as input from the user, then calculates and prints the area.
 
-### Problem Set 6: If-Else Conditions
+## Extra Credit: If-Else Conditions ✨
 11. **Even or Odd**
     - Write a program that asks the user for a number, then prints whether the number is even or odd using an if-else statement.
+
+<details>
+
+<summary> 👀 Hint </summary>
+
+````py 
+if  num % 2==0
+
+````
+[Do some research](https://stackoverflow.com/questions/65378252/how-do-i-modulo-an-input-by-two-to-check-if-the-number-is-even-or-odd)
+
+</details>
 
 12. **Age Check**
     - Ask the user for their age, then print "You are a minor" if their age is less than 18, otherwise print "You are an adult."
