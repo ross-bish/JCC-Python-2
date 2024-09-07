@@ -60,11 +60,11 @@ Hello, Sarah! Welcome back!
      - Division of 20 by 4.
 
 10. **Calculate the Area of a Rectangle**
-    - Write a program that takes the width and height of a rectangle as input from the user, then calculates and prints the area.
+    - Write a program that takes the ``width`` and ``height`` of a rectangle as an input from the user, then calculates and prints the ``area``.
 
 ## Extra Credit: If-Else Conditions ✨
 11. **Even or Odd**
-    - Write a program that asks the user for a number, then prints whether the number is even or odd using an if-else statement.
+    - Write a program that asks the user for a number, then prints whether the number is even or odd using an **if-else statement**.
 
 <details>
 
@@ -79,6 +79,6 @@ if  num % 2==0
 </details>
 
 12. **Age Check**
-    - Ask the user for their age, then print "You are a minor" if their age is less than 18, otherwise print "You are an adult."
+    - Ask the user for their ``age``, then print _"You are a minor"_ if their age is less than 18, otherwise print _"You are an adult."_
 
 
