@@ -1,4 +1,4 @@
-# Python Revision
+# Python Revision 📚
 ![image](https://github.com/user-attachments/assets/1e2b92e7-e51f-4fd2-b235-f95bc2ff5017)
 
 
@@ -14,13 +14,21 @@ Here’s a set of 10 beginner-level Python problems sets:
    
 2. **Introduction**
    - Create a program that prints a sentence introducing yourself. Include your name, age, and favorite hobby using multiple `print` statements.
+````
+My name is Gandalf.
+I am 55,000 years old.
+I enjoy magic.
+````
 
 ### Problem Set 2: Variables and Assignment
 3. **Basic Variable Assignment**
-   - Declare a variable `name` and assign it your name. Declare a variable `age` and assign it your age. Print the values of both variables.
+   - Declare a variable `name` and assign it your name.
+   - Declare a variable `age` and assign it your age.
+   - Print the values of both variables.
 
 4. **Swapping Variables**
-   - Assign the value of `10` to a variable `a`, and the value of `5` to a variable `b`. Swap the values of `a` and `b` and print the new values of both.
+   - Assign the value of `10` to a variable `a`, and the value of `5` to a variable `b`.
+   - Swap the values of `a` and `b` and print the new values of both.
 
 ### Problem Set 3: String Concatenation
 5. **Concatenation of Strings and Variables**
