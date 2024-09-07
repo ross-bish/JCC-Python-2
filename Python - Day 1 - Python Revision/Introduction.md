@@ -8,7 +8,7 @@ These problem sets should help you to reinforce fundamental concepts we learned 
 # Challenges ⚔️
 Here’s a set of 10 beginner-level Python problems sets:
 
-### Problem Set 1: Print Statements
+## Problem Set 1 - Print Statements
 1. **Hello World!**
    - Write a program that prints the text: `Hello, World!`
    
@@ -20,7 +20,7 @@ I am 55,000 years old.
 I enjoy magic.
 ````
 
-### Problem Set 2: Variables and Assignment
+## Problem Set 2 - Variables and Assignment
 3. **Basic Variable Assignment**
    - Declare a variable `name` and assign it your name.
    - Declare a variable `age` and assign it your age.
@@ -30,8 +30,9 @@ I enjoy magic.
    - Assign the value of `10` to a variable `a`, and the value of `5` to a variable `b`.
    - Swap the values of `a` and `b` and print the new values of both.
 
-### Problem Set 3: String Concatenation
+## Problem Set 3 - String Concatenation
 5. **Concatenation of Strings and Variables**
+   
    - Create a program that stores your ``name`` and your ``favorite food`` in two variables. Print a sentence combining the two, such as:
 
 ````
@@ -39,19 +40,20 @@ My name is John and I love pizza.
 ````
 
 6. **Greeting Message**
+   
    - Write a program that asks the user to input their `name`, then prints a personalized greeting, such as:
 ````
 Hello, Sarah! Welcome back!
 ````
 
-### Problem Set 4: Boolean Comparisons
+## Problem Set 4 - Boolean Comparisons
 7. **Simple Boolean Comparisons**
    - Write a program that compares two numbers (e.g., `5 > 3`), and prints whether the comparison is `True` or `False`.
 
 8. **Equality Check**
    - Create a program that takes two user inputs (numbers) and checks if they are equal. Print `True` if they are, otherwise print `False`.
 
-### Problem Set 5: Basic Arithmetic
+## Problem Set 5 - Basic Arithmetic
 9. **Basic Math Operations**
    - Write a program that performs the following operations and prints the result: 
      - Sum of 10 and 5.
