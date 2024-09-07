@@ -65,7 +65,7 @@ Hello, Sarah! Welcome back!
 10. **Calculate the Area of a Rectangle**
     - Write a program that takes the ``width`` and ``height`` of a rectangle as an input from the user, then calculates and prints the ``area``.
 
-## Extra Credit: If-Else Conditions ✨
+## ✨Extra Credit: If-Else Conditions 
 11. **Even or Odd**
     - Write a program that asks the user for a number, then prints whether the number is even or odd using an **if-else statement**.
 
