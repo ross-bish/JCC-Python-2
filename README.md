@@ -1,2 +1,2 @@
-# JCC-Python-2
+# Junior Cycle Coding
 Junior Cycle Coding - Year 3 - Python
