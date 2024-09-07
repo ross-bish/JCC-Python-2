@@ -51,7 +51,8 @@ Hello, Sarah! Welcome back!
    - Write a program that compares two numbers (e.g., `5 > 3`), and prints whether the comparison is `True` or `False`.
 
 8. **Equality Check**
-   - Create a program that takes two user inputs (numbers) and checks if they are equal. Print `True` if they are, otherwise print `False`.
+   - Create a program that takes two user inputs (numbers) and checks if they are equal.
+   - Print `True` if they are, otherwise print `False`.
 
 ## Problem Set 5 - Basic Arithmetic
 9. **Basic Math Operations**
