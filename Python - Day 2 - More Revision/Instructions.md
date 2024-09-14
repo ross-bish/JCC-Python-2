@@ -46,12 +46,17 @@ print("Division Result = ")
 
 - Remember to use appropriate `# comments` to explain what your code is doing.
 
-## Problem Set B: Boolean and Logical Operators
-3. **Vowel Checker**
-    - Write a program that asks the user for a single letter and checks if it is a vowel (`a, e, i, o, u`). Print `True` if it is, otherwise print `False`.
+## Problem Set B: Boolean and Logical Operators 
+### 3. Vowel Checker
 
-4. **Eligibility Check**
-    - Ask the user for their age and whether they are a student (True or False). If the user is 18 or older and a student, print "You qualify for the discount!" Otherwise, print "You do not qualify."
+- Write a program that asks the user for a single letter and checks if it is a vowel **(a, e, i, o, u)**. 
+- Print `True` if it is, otherwise print `False`.
+
+### 4. Eligibility Check 🪪
+
+- Ask the user for their ``age`` and whether they are a student (``True`` or ``False``).
+- If the user is ``18`` or older and a student, print **"You qualify for the discount!"**
+- Otherwise, print **"You do not qualify."**
 
 ## Problem Set C: Combining Concepts
 5. **Tip Calculator**
