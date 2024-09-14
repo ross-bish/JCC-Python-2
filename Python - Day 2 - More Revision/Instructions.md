@@ -33,12 +33,14 @@
 
 ````python
 # Add comments to explain what your code is doing.
-num1 = 
-num2 = 
+num1 = float()
+num2 = input("Enter the second number: ")
+operation = input("Choose the operation (+, -, *, /): ")
 
-addition_result = 
+if operation == "+":
+    result = 
 
-print("Division Result = ")
+print(f"The result is: {result}")
 
 ````
   
