@@ -135,13 +135,13 @@ else:
 ### 7. Number Range
 
 - Ask the user for a number, and print:
-  - "The number is positive" if it's `>` greater than ``0``.
-  - "The number is negative" if it's `<` less than ``0``.
-  - "The number is zero" if it's `=` equal to ``0``.
+  - _"The number is positive"_ if it's `>` greater than ``0``.
+  - _"The number is negative"_ if it's `<` less than ``0``.
+  - _"The number is zero"_ if it's `=` equal to ``0``.
 
 ### 8. Password Validator
 
-- Write a program that checks if the user's entered ``password`` is the same as a predefined password (stored in the code). 
+- Write a program that checks if the user's entered ``password`` is the same as a ``predefined_password`` (stored in the code). 
 - If it matches, print _"Access granted"_ otherwise print _"Access denied."_
 
 
