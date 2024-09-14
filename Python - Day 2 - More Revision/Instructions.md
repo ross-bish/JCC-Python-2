@@ -3,7 +3,7 @@
 ![CodeWorksCodeNotWorkingGIF](https://github.com/user-attachments/assets/6b603f81-efd5-4dad-81fe-b00b7d802833)
 
 
-## Problem Set A: Input and Type Conversion
+## Problem Set A - Input and Type Conversion
 ### 1. Temperature Converter 🌡️
     
 - Ask the user to enter a temperature in degrees `celsius` ℃.
@@ -46,7 +46,7 @@ print("Division Result = ")
 
 - Remember to use appropriate `# comments` to explain what your code is doing.
 
-## Problem Set B: Boolean and Logical Operators 
+## Problem Set B - Boolean and Logical Operators 
 ### 3. Vowel Checker
 
 - Write a program that asks the user for a single letter and checks if it is a vowel **(a, e, i, o, u)**. 
@@ -58,19 +58,25 @@ print("Division Result = ")
 - If the user is ``18`` or older and a student, print **"You qualify for the discount!"**
 - Otherwise, print **"You do not qualify."**
 
-## Problem Set C: Combining Concepts
-5. **Tip Calculator**
-    - Write a program that asks for the total bill amount and the tip percentage (as a number, e.g., 10 for 10%). Calculate the total amount including the tip, then print the result in a formatted string like "The total bill, including a 10% tip, is $110."
+## Problem Set C - Combining Concepts
+### 5. Tip Calculator 💵
 
-6. **Grade Checker**
-    - Create a program that takes a score (0-100) from the user and prints out the corresponding grade:
-      - `90-100: A`
-      - `80-89: B`
-      - `70-79: C`
-      - `60-69: D`
-      - Below 60: F
+- Write a program that asks for the ``total bill`` amount and the ``tip percentage`` as a number **(e.g., 10 for 10%)**.
+- Calculate the ``total amount`` including the tip.
+- Then print the result in a _formatted string_ like **"The total bill, including a 10% tip, is $110."**
 
-## Problem Set D: Advanced If-Else and Comparison Logic
+### 6. Grade Checker 📝
+    
+- Create a program that takes a score (0-100) from the user and prints out the corresponding grade:
+````
+90-100: A
+80-89: B
+70-79: C
+60-69: D
+Below 60: F
+````
+
+## Problem Set D - Advanced If-Else and Comparison Logic
 7. **Number Range**
     - Ask the user for a number, and print:
       - "The number is positive" if it's greater than 0.
