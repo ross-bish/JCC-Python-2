@@ -112,11 +112,11 @@ Below 60: F
 grade = int(input(""))
 
 # Use if/elif/else statements to categorize the grade and provide a response.
-if grade >= 90:
+if 90 <= grade <= :
     print("")
 elif  <= grade <  :
     print("")
-elif  <= grade < :
+elif :
     print("")
 else:
     print("")
@@ -129,14 +129,17 @@ else:
 
 
 
-## Problem Set D - Advanced If-Else and Comparison Logic
-7. **Number Range**
-    - Ask the user for a number, and print:
-      - "The number is positive" if it's greater than 0.
-      - "The number is negative" if it's less than 0.
-      - "The number is zero" if it's equal to 0.
+## ✨Extra Credit - More If-Else and Comparison Logic
+### 7. Number Range
 
-8. **Password Validator**
-    - Write a program that checks if the user's entered password is the same as a predefined password (stored in the code). If it matches, print "Access granted," otherwise print "Access denied."
+- Ask the user for a number, and print:
+  - "The number is positive" if it's `>` greater than ``0``.
+  - "The number is negative" if it's `<` less than ``0``.
+  - "The number is zero" if it's `=` equal to ``0``.
+
+### 8. Password Validator
+
+- Write a program that checks if the user's entered ``password`` is the same as a predefined password (stored in the code). 
+- If it matches, print _"Access granted"_ otherwise print _"Access denied."_
 
 
