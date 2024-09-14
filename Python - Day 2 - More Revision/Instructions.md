@@ -75,6 +75,9 @@ if letter in 'aeiou':
 - If the user is ``18`` or older and a student, print **"You qualify for the discount!"**
 - Otherwise, print **"You do not qualify."**
 
+- Remember to use appropriate `# comments` to explain what your code is doing.
+
+
 ## Problem Set C - Combining Concepts
 ### 5. Tip Calculator 💵
 
@@ -88,7 +91,10 @@ if letter in 'aeiou':
 ````py
 
 tip_amount = (total_bill * tip_percentage) / 100
-total_amount = 
+total_amount =
+
+# why is this formatting useful for dealing with currency?
+print(f"€{total_amount: .2f}")
 ````
 </details>
 
@@ -129,7 +135,7 @@ else:
 </details>
 
 
-
+- Remember to use appropriate `# comments` to explain what your code is doing.
 
 ## ✨Extra Credit - More If-Else and Comparison Logic
 ### 7. Number Range
@@ -144,4 +150,4 @@ else:
 - Write a program that checks if the user's entered ``password`` is the same as a ``predefined_password`` (stored in the code). 
 - If it matches, print _"Access granted"_ otherwise print _"Access denied."_
 
-
+- Remember to use appropriate `# comments` to explain what your code is doing.
