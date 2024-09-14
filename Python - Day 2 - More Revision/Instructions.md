@@ -52,6 +52,21 @@ print("Division Result = ")
 - Write a program that asks the user for a single letter and checks if it is a vowel **(a, e, i, o, u)**. 
 - Print `True` if it is, otherwise print `False`.
 
+<details>
+
+<summary> 👀 Hint </summary>
+
+````py
+
+.lower()
+
+if letter in 'aeiou':
+    print()
+
+````
+</details>
+
+
 ### 4. Eligibility Check 🪪
 
 - Ask the user for their ``age`` and whether they are a student (``True`` or ``False``).
@@ -65,6 +80,18 @@ print("Division Result = ")
 - Calculate the ``total amount`` including the tip.
 - Then print the result in a _formatted string_ like **"The total bill, including a 10% tip, is $110."**
 
+<details>
+<summary> 👀Hint </summary>
+
+````py
+
+tip_amount = (total_bill * tip_percentage) / 100
+total_amount = 
+````
+</details>
+
+
+
 ### 6. Grade Checker 📝
     
 - Create a program that takes a score (0-100) from the user and prints out the corresponding grade:
@@ -75,6 +102,32 @@ print("Division Result = ")
 60-69: D
 Below 60: F
 ````
+
+<details>
+
+<summary> 👀 Hint </summary>
+
+````py
+# Get the user's grade as input
+grade = int(input(""))
+
+# Use if/elif/else statements to categorize the grade and provide a response.
+if grade >= 90:
+    print("")
+elif  <= grade <  :
+    print("")
+elif  <= grade < :
+    print("")
+else:
+    print("")
+
+````
+
+  
+</details>
+
+
+
 
 ## Problem Set D - Advanced If-Else and Comparison Logic
 7. **Number Range**
