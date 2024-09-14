@@ -3,23 +3,36 @@
 ![CodeWorksCodeNotWorkingGIF](https://github.com/user-attachments/assets/6b603f81-efd5-4dad-81fe-b00b7d802833)
 
 
-### Problem Set A: Input and Type Conversion
-1. **Temperature Converter**
-    - Write a program that asks the user to input a temperature in Celsius and converts it to Fahrenheit using the formula:  
-      `Fahrenheit = (Celsius * 9/5) + 32`.  
-      Print the result.
+## Problem Set A: Input and Type Conversion
+### 1. Temperature Converter
+    
+- Ask the user to enter a temperature in degrees `celsius` ℃.
+- Convert the temperature to Fahrenheit using the formula:
 
-2. **Simple Calculator**
-    - Create a program that takes two numbers from the user and asks which operation they want to perform (addition, subtraction, multiplication, or division). Based on their input, perform the corresponding operation and print the result.
+    ````
+     fahrenheit = (celsius * 9/5) + 32
+    ````
 
-### Problem Set B: Boolean and Logical Operators
+- Store the result in a variable `fahrenheit` and print it.
+
+- Remember to use appropriate `# comments` to explain what your code is doing.
+
+
+    >
+    > 
+
+### 2. Simple Calculator
+
+- Create a program that takes two numbers from the user and asks which operation they want to perform (addition, subtraction, multiplication, or division). Based on their input, perform the corresponding operation and print the result.
+
+## Problem Set B: Boolean and Logical Operators
 3. **Vowel Checker**
     - Write a program that asks the user for a single letter and checks if it is a vowel (`a, e, i, o, u`). Print `True` if it is, otherwise print `False`.
 
 4. **Eligibility Check**
     - Ask the user for their age and whether they are a student (True or False). If the user is 18 or older and a student, print "You qualify for the discount!" Otherwise, print "You do not qualify."
 
-### Problem Set C: Combining Concepts
+## Problem Set C: Combining Concepts
 5. **Tip Calculator**
     - Write a program that asks for the total bill amount and the tip percentage (as a number, e.g., 10 for 10%). Calculate the total amount including the tip, then print the result in a formatted string like "The total bill, including a 10% tip, is $110."
 
@@ -31,7 +44,7 @@
       - `60-69: D`
       - Below 60: F
 
-### Problem Set D: Advanced If-Else and Comparison Logic
+## Problem Set D: Advanced If-Else and Comparison Logic
 7. **Number Range**
     - Ask the user for a number, and print:
       - "The number is positive" if it's greater than 0.
