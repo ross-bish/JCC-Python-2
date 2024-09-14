@@ -4,7 +4,7 @@
 
 
 ## Problem Set A: Input and Type Conversion
-### 1. Temperature Converter
+### 1. Temperature Converter 🌡️
     
 - Ask the user to enter a temperature in degrees `celsius` ℃.
 - Convert the temperature to Fahrenheit using the formula:
@@ -21,9 +21,30 @@
     >
     > 
 
-### 2. Simple Calculator
+### 2. Simple Calculator 🧮
 
-- Create a program that takes two numbers from the user and asks which operation they want to perform (addition, subtraction, multiplication, or division). Based on their input, perform the corresponding operation and print the result.
+- Create a program that takes two numbers ``num1`` and ``num2`` from the user.
+- Ask which operation they want to perform _**addition, subtraction, multiplication,**_ or **_division_**.
+- Based on their input, perform the corresponding operation and print the result.
+
+<details>
+
+<summary> 👀 Hint </summary>
+
+````python
+# Add comments to explain what your code is doing.
+num1 = 
+num2 = 
+
+addition_result = 
+
+print("Division Result = ")
+
+````
+  
+</details>
+
+- Remember to use appropriate `# comments` to explain what your code is doing.
 
 ## Problem Set B: Boolean and Logical Operators
 3. **Vowel Checker**
